@@ -1,0 +1,42 @@
+.button {
+			  width: 100px;
+			  height: 40px;
+			  background-color: #ffd633;
+			  border: none;
+			  color: black;
+			  padding: 15px 32px;
+			  text-align: center;
+			  text-decoration: blink;
+			  display: inline-block;
+			  font-size: 15px;
+			  margin: 4px 2px;
+			  cursor: pointer;
+}
+.textbox {
+	width: 250px;
+}
+.label {
+	font-weight: bold;
+}
+.table {
+	border: 1px solid black;
+	background-color: #ccffb3;
+}
+.body {
+	background-color: #e6f2ff;
+}
+.link {
+	font-size: 30px;
+	font-family: "Times New Roman";
+	font-style: italic;
+	font-weight: bold;
+}
+.linktable {
+	border: 1px solid black;
+}
+.linktr {
+	border: 1px solid black;
+}
+.linktd {
+	border: 1px solid black;
+}
