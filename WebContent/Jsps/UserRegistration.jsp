@@ -7,12 +7,12 @@
 			<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 			<link rel="stylesheet" href="../Css/PageStyle.css">
 			<script language="JavaScript" type="text/javascript">
-			function submitFormToCancel()
-			{
-			  	document.userRegistrationContainer.cancelOperation.value = 'goBackHome' ;
-			  	document.userRegistrationContainer.submit() ;
-			}
-		</script>
+				function submitFormToCancel()
+				{
+				  	document.userRegistrationContainer.cancelOperation.value = 'goBackHome' ;
+				  	document.userRegistrationContainer.submit() ;
+				}
+			</script>
 		</head>
 		<body>
 			<form id="userDetails" name="userRegistrationContainer" action="../UserRegistrationServlet" method="post">
